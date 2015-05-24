@@ -1,4 +1,4 @@
-Release Date Game Finder
+#Release Date Game Finder
 
 Utility to find games release dates, it looks in wikipedia for date releases for a specific system (Console or Computer) and a list of roms, final result is most valuable date result.
 
